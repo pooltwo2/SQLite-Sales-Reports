@@ -18,6 +18,10 @@ Este proyecto ofrece un **script interactivo en Python** que, partiendo de una b
 - Salida en **PDF** con títulos, tabla diaria + **fila de “Total del mes”**, y **gráfica** de ventas por mes.
 - Código claro, comentado y **fácil de extender**.
 
+<p align="center">
+<img  src="imagen-example.PNG" alt="Texto alternativo" width="300"/>
+<p/>
+
 ---
 
 ##  Requisitos
